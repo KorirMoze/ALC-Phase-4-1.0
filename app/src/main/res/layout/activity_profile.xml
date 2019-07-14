@@ -8,11 +8,11 @@
 
     <ImageView
         android:id="@+id/imageView"
-        android:layout_width="180dp"
-        android:layout_height="180dp"
+        android:layout_width="140dp"
+        android:layout_height="140dp"
         android:layout_marginStart="16dp"
         android:layout_marginLeft="16dp"
-        android:layout_marginTop="116dp"
+        android:layout_marginTop="32dp"
         android:layout_marginEnd="16dp"
         android:layout_marginRight="16dp"
         android:layout_marginBottom="71dp"
@@ -142,7 +142,7 @@
         android:layout_marginStart="97dp"
         android:layout_marginLeft="97dp"
         android:layout_marginTop="21dp"
-        android:text="@Moses korir"
+        android:text="@string/moses_korir"
         app:layout_constraintStart_toEndOf="@+id/textView6"
         app:layout_constraintTop_toBottomOf="@+id/textView10" />
 
