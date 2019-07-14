@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ALC phase4</string>
+    <string name="alc_url">https://andela.com/alc</string>
+    <string name="about_alc">About ALC</string>
+</resources>
